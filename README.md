@@ -1,1 +1,1 @@
-I want to be very open with what the use of AI to code this project is. This project was made as a test, and continues to be, a test of ChatGPT o3-mini's ability to code. I made the prompts, not the code.
+I want to be very open with what the use of AI to code this project is. This project was made as a test, and continues to be, a test of ChatGPT o3-mini's ability to code. I made the prompts, not the code. The source code is available and able to be tweaked.
